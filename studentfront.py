@@ -195,8 +195,7 @@ class Student:
         
 
         
-
-if __name__=='__main__':
+def main():
     root = Tk()
     application = Student(root)
     root.mainloop()
